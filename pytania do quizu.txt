@@ -4,6 +4,7 @@ Ile lat ma paweł
 -18
 -19
 18
+
 zad 2 (1)
 Ile lat ma oskar
 - 17
@@ -48,30 +49,30 @@ zad 7 (2)
 ktore zwierze jest z kotowatych
 -pies
 -kot
--tygrys
--chomik
+-tygrys 26
+-chomik 27
 kot tygrys
 
 zad 8 (2)
 ktore okreslenia pasuja do kota
-- gruby
-- fajny
-- szczeka
-- warczy
+- gruby 28
+- fajny 29
+- szczeka 30
+- warczy 31
 gruby fajny
 
 zad 9 (2)
 jakie ksywki ma oskar
--cycu
--gruby
--chudy
--mati
+-cycu 32
+-gruby 33
+-chudy34
+-mati35
 cycu gruby
 
 zad 10 (2)
 kim jest szymi
--zajawkowiczem
--gangsterem
--kujonem
--gamerem
+-zajawkowiczem 36
+-gangsterem 37
+-kujonem 38
+-gamerem 39
 
